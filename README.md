@@ -20,3 +20,5 @@ JavaScript Selectors and Event Listeners
 The student uses selectors to access user input values and select elements in the DOM.
 
 The student uses event listeners to trigger grid creation, and modify the grid colors.
+
+<h2>Additional Features</h2>
