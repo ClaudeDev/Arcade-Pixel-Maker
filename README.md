@@ -19,7 +19,7 @@ Final Project for the first phase of the Udacity Google Scholarship 2017-2018.
 <ul>
 	<li>The student uses selectors to access user input values and select elements in the DOM.</li>
 
-	<li>The student uses event listeners to trigger grid creation, and modify the grid colors.</li>
+<li>The student uses event listeners to trigger grid creation, and modify the grid colors.</li>
 
 <h2>Additional Features</h2>
 <ul>
