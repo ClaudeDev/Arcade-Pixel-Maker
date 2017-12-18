@@ -1,7 +1,10 @@
 # Arcade-Pixel-Maker
 Final Project for the first phase of the Udacity Google Scholarship 2017-2018.
-http://res.cloudinary.com/dikujrdbe/image/upload/v1513607128/Pac_Man_nwa3cm.png
-Criteria 	Meets Specifications
+
+![My image](http://res.cloudinary.com/dikujrdbe/image/upload/v1513607128/Pac_Man_nwa3cm.png)
+
+
+Criteria Meets Specifications
 
 JavaScript Loops and Functions
 	
