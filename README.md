@@ -26,5 +26,6 @@ The student uses event listeners to trigger grid creation, and modify the grid c
 	<li>Music added</li>
 	<li>Double click to erase colored squares</li>
 	<li>Animation made using CSS</li>
+	<li>Super Mario inspired design</li>
 	
 </ul>
