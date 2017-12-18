@@ -1,0 +1,117 @@
+body {
+    text-align: center;
+    background-image:url('http://res.cloudinary.com/dikujrdbe/image/upload/v1513597592/arcade-machine01_hctjg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-family: Monoton;
+    font-size: 70px;
+    margin: -0.25em;
+}
+p {
+	font-family: 'Press Start 2P', cursive;
+    font-size: 18px;
+    margin: 2em;
+	animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {  
+  50% { opacity: 0;
+  }
+
+
+}
+h2 {
+	font-family: 'Press Start 2P', cursive;
+    font-size: 18px;
+    margin: 0.5em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 4em;
+}
+
+#sizePicker{
+   	font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    border:2px solid;
+    border-top-color: rgb(233, 166, 148);
+    border-right-color: black;
+	border-bottom-color: black;
+	border-left-color: rgb(233, 166, 148);
+    border-radius: 2px;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+    padding:5px; 
+    border:2px solid;
+    border-top-color: rgb(233, 166, 148);
+    border-right-color: black;
+	border-bottom-color: black;
+	border-left-color: rgb(233, 166, 148);
+    border-radius: 2px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+}
+
+input[type=submit] {
+    padding:5px 15px; 
+    background:#D44A04; 
+    border: 2px solid ;
+    border-top-color: rgb(233, 166, 148);
+    border-right-color: black;
+	border-bottom-color: black;
+	border-left-color: rgb(233, 166, 148);
+	border-radius: 2px;
+    cursor:pointer;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 11px;
+
+}
+
+input[type=color] {
+    padding:1px; 
+    border:2px solid;
+    border-top-color: rgb(233, 166, 148);
+    border-right-color: black;
+	border-bottom-color: black;
+	border-left-color: rgb(233, 166, 148);
+    border-radius: 2px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+}
+
+audio {
+	margin-top: 2em;
+	background:#D44A04;
+    border:2px solid;
+    border-top-color: rgb(233, 166, 148);
+    border-right-color: black;
+	border-bottom-color: black;
+	border-left-color: rgb(233, 166, 148);
+    border-radius: 2px;
+}
+
