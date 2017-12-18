@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+	<html lang="en">
+	<meta charset="UTF-8">
+
+    <title>Pixel Art Maker!</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Press+Start+2P|Monoton">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Pixel Art Maker</h1>
+
+    <h2>Choose Grid Size</h2>
+    <form id="sizePicker">
+        Grid Height:
+        <input type="number" id="input_height" name="height" min="1" value="13">
+        Grid Width:
+        <input type="number" id="input_width" name="width" min="1" value="24">
+        <input type="submit" class="submitButton element" value="Insert Coin">
+    </form>
+
+    <h2>Pick A Color</h2>
+    <input type="color" id="colorPicker">
+
+    <h2>Design Canvas</h2>
+    <table id="pixel_canvas"></table>
+ 	<audio controls>
+		<source src="http://www.mariomayhem.com/downloads/sound_tracks/Super_Mario_Bros._1/01-main-theme-overworld.mp3" type="audio/mpeg">
+		Your browser does not support the audio element.
+	</audio>
+
+	<p>1. Press Play<br>2. Insert Coin<br>3.Single click to draw<br>4.Double click to delete</p>
+    <script src="designs.js"></script>
+</body>
+</html>
