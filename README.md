@@ -8,18 +8,18 @@ Final Project for the first phase of the Udacity Google Scholarship 2017-2018.
 
 <h4>JavaScript Loops and Functions</h4>
 	
+<ul>
+	<li>The student implements while and for loops to clear and create the grid dynamically.</li>
 
-The student implements while and for loops to clear and create the grid dynamically.
+<li>Student successfully implements makeGrid() and call it upon the user submitting the grid size.</li>
+</ul>
 
-Student successfully implements makeGrid() and call it upon the user submitting the grid size.
-
-
-JavaScript Selectors and Event Listeners
+<h4>JavaScript Selectors and Event Listeners</h4>
 	
+<ul>
+	<li>The student uses selectors to access user input values and select elements in the DOM.</li>
 
-The student uses selectors to access user input values and select elements in the DOM.
-
-The student uses event listeners to trigger grid creation, and modify the grid colors.
+	<li>The student uses event listeners to trigger grid creation, and modify the grid colors.</li>
 
 <h2>Additional Features</h2>
 <ul>
