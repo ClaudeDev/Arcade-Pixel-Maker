@@ -33,5 +33,5 @@ $('#pixel_canvas').on('click','td', function paint(colorValue) {        //color 
 
 $('#pixel_canvas').on('dblclick','td', function remove() {        //remove color when double clicked
 
-	$(this).css( 'background-color', '' );
+	$(this).css( 'background-color', '#0188A5' );
 });  
