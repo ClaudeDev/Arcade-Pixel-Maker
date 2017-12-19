@@ -2,7 +2,8 @@ body {
     text-align: center;
     background-image:url('http://res.cloudinary.com/dikujrdbe/image/upload/v1513597592/arcade-machine01_hctjg1.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 1370px 1028px;
+    background-position: center top;  
 }
 
 h1 {
