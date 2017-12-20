@@ -1,6 +1,6 @@
 # Arcade-Pixel-Maker
 Final Project for the first phase of the Udacity Google Scholarship 2017-2018.
-https://claudedev.github.io/Arcade-Pixel-Maker/
+<br>https://claudedev.github.io/Arcade-Pixel-Maker/
 
 ![My image](http://res.cloudinary.com/dikujrdbe/image/upload/v1513607128/Pac_Man_nwa3cm.png)
 
