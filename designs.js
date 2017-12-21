@@ -1,12 +1,12 @@
-	
+var table = $('#pixel_canvas');     //table
+
 function makeGrid(height, width) {
 	
 	height = $('#input_height').val();  //number of rows 
 	width = $('#input_width').val();    //number of col 
-	var table = $('#pixel_canvas');     //table
-
+	
 	table.children().remove();          //removes previous table 
-	$('p').remove();					//removes blinking p
+	$('p').remove();		    //removes blinking p
 
 	for (var i = 0; i < height; i++) {      //creates rows
 		table.append('<tr></tr>');
@@ -25,13 +25,13 @@ $( document ).ready(function() {
 });
 
 
-$('#pixel_canvas').on('click','td', function paint(colorValue) {        //color square to the assigned value
+table.on('click','td', function paint(colorValue) {        //color square to the assigned value
 
 	colorValue = $('#colorPicker').val();
 	$(this).css( 'background-color', colorValue );
 });    
 
-$('#pixel_canvas').on('dblclick','td', function remove() {        //remove color when double clicked
+table.on('dblclick','td', function remove() {        //removes color when double clicked
 
 	$(this).css( 'background-color', '#0188A5' );
 });  
