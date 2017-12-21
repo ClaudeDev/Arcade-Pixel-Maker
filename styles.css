@@ -13,10 +13,10 @@ h1 {
     margin: -0.25em;
 }
 p {
-	font-family: 'Press Start 2P', cursive;
+    font-family: 'Press Start 2P', cursive;
     font-size: 18px;
     margin: 2em;
-	animation: blinker 1s linear infinite;
+    animation: blinker 1s linear infinite;
 }
 
 @keyframes blinker {  
@@ -26,7 +26,7 @@ p {
 
 }
 h2 {
-	font-family: 'Press Start 2P', cursive;
+    font-family: 'Press Start 2P', cursive;
     font-size: 18px;
     margin: 0.5em 0 0.25em;
 }
@@ -36,7 +36,7 @@ h2:first-of-type {
 }
 
 #sizePicker{
-   	font-family: 'Press Start 2P', cursive;
+    font-family: 'Press Start 2P', cursive;
     font-size: 10px;
 
 }
@@ -53,8 +53,8 @@ table {
     border:2px solid;
     border-top-color: rgb(233, 166, 148);
     border-right-color: black;
-	border-bottom-color: black;
-	border-left-color: rgb(233, 166, 148);
+    border-bottom-color: black;
+    border-left-color: rgb(233, 166, 148);
     border-radius: 2px;
 }
 
@@ -72,8 +72,8 @@ input[type=number] {
     border:2px solid;
     border-top-color: rgb(233, 166, 148);
     border-right-color: black;
-	border-bottom-color: black;
-	border-left-color: rgb(233, 166, 148);
+    border-bottom-color: black;
+    border-left-color: rgb(233, 166, 148);
     border-radius: 2px;
     font-family: 'Press Start 2P', cursive;
     font-size: 10px;
@@ -85,9 +85,9 @@ input[type=submit] {
     border: 2px solid ;
     border-top-color: rgb(233, 166, 148);
     border-right-color: black;
-	border-bottom-color: black;
-	border-left-color: rgb(233, 166, 148);
-	border-radius: 2px;
+    border-bottom-color: black;
+    border-left-color: rgb(233, 166, 148);
+    border-radius: 2px;
     cursor:pointer;
     font-family: 'Press Start 2P', cursive;
     font-size: 11px;
@@ -99,21 +99,21 @@ input[type=color] {
     border:2px solid;
     border-top-color: rgb(233, 166, 148);
     border-right-color: black;
-	border-bottom-color: black;
-	border-left-color: rgb(233, 166, 148);
+    border-bottom-color: black;
+    border-left-color: rgb(233, 166, 148);
     border-radius: 2px;
     font-family: 'Press Start 2P', cursive;
     font-size: 10px;
 }
 
 audio {
-	margin-top: 2em;
-	background:#D44A04;
+    margin-top: 2em;
+    background:#D44A04;
     border:2px solid;
     border-top-color: rgb(233, 166, 148);
     border-right-color: black;
-	border-bottom-color: black;
-	border-left-color: rgb(233, 166, 148);
+    border-bottom-color: black;
+    border-left-color: rgb(233, 166, 148);
     border-radius: 2px;
 }
 
